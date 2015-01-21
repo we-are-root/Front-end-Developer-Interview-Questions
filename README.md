@@ -25,8 +25,11 @@ This file contains a number of front-end interview questions that can be used wh
 ####[[⬆]](#toc) <a name='general'>General Questions:</a>
 
 * What did you learn yesterday/this week?
+  Subjective. Will vary from person to person. The important thing is that they have a reply.
 * What excites or interests you about coding?
+  Look for actual excitement. If someone is just repeating something they read online, it should be fairly obvious.
 * What is a recent technical challenge you experienced and how did you solve it?
+  What you're looking for in this answer is not so much a huge or impressive challenge but the thought process that went into solving it. Was it haphazard? Systematic? Does it show insight into the problem domain as well as the language/framework it was implemented in?
 * What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
 * Talk about your preferred development environment. (OS, Editor or IDE, Browsers, Tools, etc.)
 * Which version control systems are you familiar with?
